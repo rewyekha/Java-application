@@ -1,11 +1,17 @@
 ---
-description: Java project demos how to build a war file to be deployed on a Tomcat server.
 icon: java
+description: Java project demos how to build a war file to be deployed on a Tomcat server.
 ---
 
 # Java Web App on Tomcat server
 
 [![BoltOps Badge](https://img.boltops.com/boltops/badges/boltops-badge.png)](https://www.boltops.com)
+
+## &#x20;Fork project repo
+
+{% hint style="success" %}
+### Fork the project from my GitHub repo: [https://github.com/rewyekha/Java-application](https://github.com/rewyekha/Java-application)
+{% endhint %}
 
 ## Build
 
